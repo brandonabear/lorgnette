@@ -1,5 +1,7 @@
 # lorgnette
 
+[![Build Status](https://travis-ci.org/brandonabear/lorgnette.svg?branch=main)](https://travis-ci.org/brandonabear/lorgnette)
+
 `lorgnette` is a convenience utility for sub-setting complex Spark schemas with a list of xPaths.
 
 ```scala
